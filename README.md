@@ -1,6 +1,6 @@
 # Rozpoznawanie czynności na podstawie danych z akcelerometru i żyroskopu
 
-Pełna dokumentacja projektu znajduje się w pliku 'dokumentacja.ipynb'.
+Pełna dokumentacja projektu znajduje się w pliku 'Dokumentacja.ipynb'.
 
 ## Uruchomienie programu
 
