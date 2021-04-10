@@ -2,7 +2,7 @@
 
 ## Uruchomienie prgramu
 
-W celu przeprowadzenia testów należy pobrać plik 'AI - template.ipynb' oraz 'XGB.model' i umieścić je w tym samym folderze co plik 'test_data.csv'. <br>
+W celu przeprowadzenia testów należy pobrać plik 'AI - final.ipynb' oraz 'XGB_classifier.model' i umieścić je w tym samym folderze co plik 'test_data.csv'. <br>
 Następnie otworzyć plik 'AI - template.ipynb' przy pomocy Jupyter Notebook i uruchomić po kolei komórki kodu.
 
 
